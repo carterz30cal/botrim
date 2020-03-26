@@ -1,0 +1,10 @@
+<ModMetaData>
+	<name>BotRim v1.0</name>
+	<author>carterz30cal</author>
+  <packageId>carterz30cal.BotRim</packageId>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<description>adds several computery things - including new humanoid robots.</description>
+	<!--<url>https://steamcommunity.com/id/carterz30cal/myworkshopfiles/?appid=294100</url>-->
+</ModMetaData>
