@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <StatDef>
+    <defName>BOTR_Storage</defName>
+    <label>computer storage</label>
+    <description>The amount of research points a computer can store</description>
+    <category>Building</category>
+    <defaultBaseValue>600</defaultBaseValue>
+    <minValue>0</minValue>
+    <toStringStyle>FloatOne</toStringStyle>
+    <showIfUndefined>false</showIfUndefined>
+    <displayPriorityInCategory>69419</displayPriorityInCategory>
+  </StatDef>
+
+  <StatDef>
+    <defName>BOTR_Memory</defName>
+    <label>computer memory</label>
+    <description>The speed at which new research points are generated</description>
+    <category>Building</category>
+    <defaultBaseValue>1</defaultBaseValue>
+    <minValue>0</minValue>
+    <toStringStyle>FloatOne</toStringStyle>
+    <showIfUndefined>false</showIfUndefined>
+    <displayPriorityInCategory>69420</displayPriorityInCategory>
+  </StatDef>
+</Defs>

@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\BotRim\Common\Assemblies\Botrim.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\BotRim\Source\obj\Release\Botrim.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\BotRim\Source\obj\Release\Botrim.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\BotRim\Source\obj\Release\Botrim.csprojAssemblyReference.cache
